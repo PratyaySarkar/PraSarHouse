@@ -1,5 +1,9 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
+  
 print("Hello");
+return 0;
+  
 }
